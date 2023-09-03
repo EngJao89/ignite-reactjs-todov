@@ -1,7 +1,7 @@
 import { AppProvider } from './context';
 
 import { Header } from './components/Header';
-import { Main } from './components/Main/Main';
+import { Main } from './components/Main';
 
 import './global.css';
 
