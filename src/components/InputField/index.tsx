@@ -2,8 +2,8 @@ import React, { useCallback, useState } from 'react';
 
 import { useToDo } from '../../hooks/useToDo';
 
-import { Button } from '../Button/Button';
-import { Input } from '../Input/Input';
+import { Button } from '../Button';
+import { Input } from '../Input';
 
 import styles from './InputField.module.css';
 

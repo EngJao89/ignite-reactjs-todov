@@ -1,7 +1,7 @@
-import { Information } from './Information/Information';
+import { Information } from './Information';
 
 import styles from './Main.module.css';
-import ToDo from './ToDo/ToDo';
+import ToDo from './ToDo';
 
 export function Main() {
   return (
