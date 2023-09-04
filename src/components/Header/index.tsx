@@ -1,6 +1,6 @@
 import logo from '../../assets/logo.svg';
 
-import { InputField } from '../InputField/InputField';
+import { InputField } from '../InputField';
 
 import styles from './Header.module.css';
 

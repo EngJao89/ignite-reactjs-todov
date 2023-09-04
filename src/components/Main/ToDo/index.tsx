@@ -4,7 +4,7 @@ import { useToDo } from '../../../hooks/useToDo';
 import clipboardImg from '../../../assets/clipboard.svg';
 
 import styles from './ToDo.module.css';
-import { Card } from './Card/Card';
+import { Card } from './Card';
 
 export default function ToDo() {
   const { isEmpty } = useToDo();
